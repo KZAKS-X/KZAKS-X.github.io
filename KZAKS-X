@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KZAKS-X | Blog Otomatis Cuan 🚀</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; margin: 50px;">
+
+  <h1>Selamat Datang di Blog KZAKS-X</h1>
+  <p>🚀 Dibangun otomatis di GitHub Pages + Monetisasi Adsteraa</p>
+
+  <hr>
+
+  <h2>Konten Pertama</h2>
+  <p>Blog ini masih percobaan, nanti semua artikel bisa diupdate otomatis via terminal.</p>
+
+  <!-- Iklan Adsteraa -->
+  <div id="ads">
+    <!-- Ganti kode di bawah dengan script Adsteraa asli dari dashboard kamu -->
+    <script type="text/javascript">
+      atOptions = {
+        'key' : 'YOUR-ADSTERRA-CODE',
+        'format' : 'iframe',
+        'height' : 250,
+        'width' : 300,
+        'params' : {}
+      };
+      document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplaynetwork.com/'+atOptions.key+'/invoke.js"></scr' + 'ipt>');
+    </script>
+  </div>
+
+  <hr>
+  <footer>
+    <p>© 2025 KZAKS-X | Powered by GitHub Pages + Adsteraa</p>
+  </footer>
+
+</body>
+</html>
